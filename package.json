@@ -1,0 +1,1 @@
+{"description":"ProofCheck — a wallet & contract risk snapshot agent for zkVerify Agent Games (Wildcard track). Reads live on-chain data and returns a hash-committed risk report anyone can re-check.","engines":{"node":">=18"},"license":"MIT","main":"server.js","name":"proofcheck-agent","scripts":{"start":"node server.js"},"type":"module","version":"1.0.0"}
